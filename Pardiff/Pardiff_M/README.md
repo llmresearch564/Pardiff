@@ -2,7 +2,6 @@ PARDiff: An Order-Agnostic Autoregressive Diffusion Model for Graph Generation
 This repository provides the official PyTorch implementation of:
 
 PARDiff: An Order-Agnostic Autoregressive Diffusion Model for Graph Generation
-Usman Ahmad Usmani, Arunava Roy, Junzo Watada
 
 🧠 Overview
 PARDiff is a novel hybrid graph generative framework that integrates the strengths of autoregressive modeling and discrete diffusion processes in a unified and order-agnostic manner.
